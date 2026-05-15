@@ -1,13 +1,3 @@
----
-layout: default
-title: Bryan Kim 
----
-
-## About Me
-
-
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
-
 In my opinion, the most educational homework was the second one this semester
 which demonstrated, through principles of heat transfer, the cost savings of insulation
 on a hot water heater, what changes could be made to improve heat flux through a
