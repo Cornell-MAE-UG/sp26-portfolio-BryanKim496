@@ -1,4 +1,12 @@
-MAE 3780
+---
+layout: default
+title: Bryan Kim 
+---
+
+## About Me
+
+
+![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 <br>
 <a href="https://drive.google.com/file/d/1J5iC8lZYphcikxR-fl6Vl9wfKjiuyewt/view?usp=sharing"> 
 <br>
